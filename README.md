@@ -55,7 +55,7 @@ int kpk(int a, int b) {
     return (a * b) / fpb(a, b);
 }
 ```
-Opoerasi Kalkulator 
+Operasi Kalkulator 
 ```c
 int main() {
     int pilihan, a, b;
